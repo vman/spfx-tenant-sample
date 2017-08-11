@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "name": "spfx-tenant-sample-client-side-solution",
+    "id": "4cb61ceb-2a54-4a7f-a591-37b341eacf08",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-tenant-sample.sppkg"
+  }
+}
